@@ -4,7 +4,7 @@ A python based script for looking up domain names associated with names and emai
 
 ## Introduction ##
 
-WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but ihttps://asciinema.org/a/56sFTVCCVxrylHmlFOD7Xqz8ps also used for a wider range of other information. Reverse Whois is a tool that allows you to search for domains by the name, address, telephone number, email address or physical address of the Registrant listed in current or historical Whois records.
+WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, and also used for a wider range of other information. Reverse Whois is a tool that allows you to search for domains by the name, address, telephone number, email address or physical address of the Registrant listed in current or historical Whois records.
 
 ## Requrirements ##
 
